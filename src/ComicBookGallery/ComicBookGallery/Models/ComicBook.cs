@@ -14,7 +14,7 @@ namespace ComicBookGallery.Models
         public Artist[] Artists { get; set; }
         public Boolean Favorite { get; set; }
 
-        public string DisplayTest
+        public string DisplayText
         {
             get
             {
